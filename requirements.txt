@@ -1,0 +1,6 @@
+geopy==2.4.0
+instagram_private_api==1.6.0.0
+pandas==2.0.1
+prettytable==3.9.0
+Requests==2.31.0
+streamlit==1.26.0
